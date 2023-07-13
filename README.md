@@ -1,4 +1,4 @@
-1>Hi, I'm Alejandro, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+1>Hi, I'm Alejandro,
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
