@@ -1,4 +1,4 @@
-1>Hi, I'm Alejandro,
+Hi, I'm Alejandro,
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
