@@ -7,5 +7,5 @@ Hi, I'm Alejandro,
   - [osTicket: Post-Installation Configuration](https://github.com/ab2315/post-install-config)
   
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ab2315/configure-ad)
+  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ab2315/azure-network-protocols)
